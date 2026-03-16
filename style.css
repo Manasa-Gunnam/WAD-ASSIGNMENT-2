@@ -1,0 +1,22 @@
+p{
+line-height:1.6;
+color:#333;
+}
+
+.highlight{
+background-color:lightyellow;
+padding:15px;
+border-radius:10px;
+}
+
+#schedule h2{
+color:darkred;
+}
+
+ul{
+color:purple;
+}
+
+ol{
+color:darkorange;
+}
